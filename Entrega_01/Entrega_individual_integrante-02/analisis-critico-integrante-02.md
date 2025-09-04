@@ -16,3 +16,5 @@ Usar datos del informe de Conaset y registros complementarios para elaborar un m
 
 2. **Historias humanas detrás de las cifras**
 Entrevistar a familiares de víctimas y a sobrevivientes para poner rostro al problema. Más que números, se trata de vidas interrumpidas y de comunidades afectadas. Una crónica con testimonios permitiría sensibilizar al público y demostrar que estos siniestros tienen consecuencias emocionales y sociales profundas.
+3. **Comparación internacional y deuda en seguridad**
+Mostrar cómo otros países han avanzado en reducir los siniestros ferroviarios mediante campañas educativas, mejoras tecnológicas en cruces y mayor inversión en infraestructura. Esto permitiría evidenciar que Chile está al debe y que el problema no es inevitable, sino solucionable con políticas adecuadas.
