@@ -8,27 +8,27 @@ Este insumo es clave para entender la magnitud de los accidentes ferroviarios en
 
 **Autor y publicación de los datos**
 
-Autor / Fuente primaria: Carabineros de Chile.
+**Autor / Fuente primaria:** Carabineros de Chile.
 
-Procesamiento y análisis: Observatorio de Seguridad Vial – CONASET.
+**Procesamiento y análisis:** Observatorio de Seguridad Vial – CONASET.
 
-Publicación: Informe Nacional de Siniestros Ferroviarios en Chile (2014-2023).
+**Publicación:** Informe Nacional de Siniestros Ferroviarios en Chile (2014-2023).
 
-Enlace / Ubicación: Documento obtenido vía Ley de Transparencia (archivo adjunto al repositorio).
+**Enlace / Ubicación:** Documento obtenido vía Ley de Transparencia (archivo adjunto al repositorio).
 
 **Contenido**
 
-Periodo: 2014 – 2023.
+**Periodo:** 2014 – 2023.
 
-Tipo de datos: Registros estadísticos de siniestros ferroviarios.
+**Tipo de datos:** Registros estadísticos de siniestros ferroviarios.
 
-Variables principales: Año, número de siniestros, número de fallecidos, lesionados (graves, menos graves, leves), causas, tipo de siniestro, tipo de usuario, sexo y edad de las víctimas, distribución regional.
+**Variables principales:** Año, número de siniestros, número de fallecidos, lesionados (graves, menos graves, leves), causas, tipo de siniestro, tipo de usuario, sexo y edad de las víctimas, distribución regional.
 
 **Pertinencia**
 
 **La base es fundamental porque:**
 
-Permite dimensionar un fenómeno poco visibilizado: los atropellos y colisiones ferroviarias.
+**Permite dimensionar un fenómeno poco visibilizado:** los atropellos y colisiones ferroviarias.
 
 Entrega una década de datos oficiales para detectar tendencias y picos críticos (ejemplo: aumento en 2022).
 
@@ -36,7 +36,7 @@ Da contexto para un reportaje sobre seguridad ferroviaria, víctimas y política
 
 **Metodología**
 
-Recolección de datos: Registros en terreno realizados por Carabineros al momento del siniestro, validados en un plazo de 48 horas.
+**Recolección de datos:** Registros en terreno realizados por Carabineros al momento del siniestro, validados en un plazo de 48 horas.
 
 **Instrumento:** Formulario SIEC 2.
 
