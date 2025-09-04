@@ -1,4 +1,6 @@
-### Análisis individual – Proyecto de investigación sobre siniestros ferroviarios en Chile
+# Análisis individual 
+## Integrante 2: Paloma Riquelme  
+
 #### **¿Qué espero contar y/o revelar con el tema? ¿Cuál es el impacto que espero generar?**
 
 Mi expectativa principal es visibilizar una realidad que ha permanecido oculta en el debate público: los siniestros ferroviarios en Chile, particularmente aquellos que se producen por atropellos en cruces peatonales o pasos no habilitados. Si bien el país ha puesto mucha atención en los accidentes de tránsito vinculados a automóviles, buses o motocicletas, el fenómeno ferroviario sigue siendo tratado como una estadística marginal, cuando en realidad involucra decenas de muertes y lesionados cada año.
