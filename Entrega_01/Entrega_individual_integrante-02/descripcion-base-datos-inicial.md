@@ -49,3 +49,5 @@ Da contexto para un reportaje sobre seguridad ferroviaria, víctimas y política
 2. Se sistematizarán en un archivo CSV/Excel, con las variables estandarizadas para análisis.
 
 3. Complementaremos con inscripción manual de los datos del informe, dado que este no entrega un dataset en bruto.
+
+[Ver Informe](https://conaset.cl/wp-content/uploads/2025/07/Informe-nacional-de-siniestros-en-Chile-2024.pdf)  
