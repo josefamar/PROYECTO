@@ -13,7 +13,7 @@ El documento fue elaborado por el Ministerio de Transportes y Telecomunicaciones
  La base incluye información técnica de cruces ferroviarios, con variables como número de cruce, ubicación (PK), nombre, tráfico vehicular y ferroviario, índice de peligrosidad (IP), visibilidad y acción recomendada. Los datos corresponden principalmente al tramo Santiago–Chillán, levantados hacia 2018–2019.
 
 
-**Pernencia:**
+**Pertinencia:**
 
 Es valiosa porque permite dimensionar la seguridad de los cruces ferroviarios y las decisiones de infraestructura necesarias (regularización o desnivelación). Aporta insumos técnicos y estadísticos clave para reportajes sobre transporte y seguridad vial en Chile.
 
