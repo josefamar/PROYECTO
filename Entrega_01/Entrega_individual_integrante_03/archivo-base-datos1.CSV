@@ -1,6 +1,7 @@
-Nº EFE;Nº;Nombre;PK;Block;Artículo;Clase Vía;V;T;MC=V?T;IP;Dt;Dr [m];Visibilidad;Acción según EFE
-139;1;S/N;3.500;LCS;No regulado;C;3,155;11;33,128;697,822;296;24;Insuficiente;Regularizar a Art 1º
-140;2;S/N;4.900;LCS;No regulado;C;4,853;11;53,383;5,288,723;296;5;Insuficiente;Desnivelar
-141;3;S/N;7.250;LCS;No regulado;C;4,201;6;25,206;37,487;296;336;Suficiente;Regularizar a Art 1º
-142;4;Lo Espejo;9.600;LCS;1º y Paso Inf;;;;;;;;;Solo de emergencia
+139,1,S/N,3500,LCS,No regulado,E,3.155,11,33.128,697.822,474,38,Insuficiente,Regularizar a Art 1º
+140,2,S/N,4900,LCS,No regulado,E,4.853,11.0,53.383,"5,288,723",474.0,8.0,Insuficiente,Desnivelar
+141,3,S/N,7250,LCS,No regulado,E,4.201,6.0,25.206,37.487,474.0,538.0,Suficiente,Regularizar a Art 1º
+142,4,Lo Espejo,9600,LCS,1º y Paso Inf,,,,,,,,,Solo de emergencia
+143,5,Las Ovejas,11622,LCS,1º,E,6.516,11.0,71.676,"5,610,814",474.0,10.0,Insuficiente,Desnivelar
+...
 
