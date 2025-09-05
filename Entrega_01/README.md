@@ -31,7 +31,7 @@ Aún debemos conseguir datos sobre el crecimiento de la red ferroviaria en Chile
 
 **¿Qué datos no existen y cómo los obtendrá?**
 
-No hay una caracterización detallada año a año de las personas que se ven involucradas en este tipo de accidentes, el informe de CONASET cuenta con el total de personas durante el periodo de 9 años. Para poder obtener esta información, podemos contactar con CONASET para poder acceder a esos datos más específicos. 
+No hay una distribución detallada de las personas afectadas respecto a sus regiones o comunas durante los últimos años. Para poder acceder a estos datos podemos contactar a CONASET para ahondar en la caracterización de los individuos que se ven involucrados en accidentes ferroviarios.  
 
 **¿Qué datos son públicos y cuáles no?**
 
