@@ -1,4 +1,3 @@
-NÂº EFE,NÂº,Nombre,PK,Block,ArtÃ­culo,Clase VÃ­a,V,T,MC=Vâ—T,IP,Dt,Dr [m],Visibilidad,AcciÃ³n segÃºn EFE
 139,1,S/N,3500,LCS,No regulado,E,3.155,11,33.128,697.822,474,38,Insuficiente,Regularizar a Art 1Âº
 140,2,S/N,4900,LCS,No regulado,E,4.853,11,53.383,"5,288,723",474,8,Insuficiente,Desnivelar
 141,3,S/N,7250,LCS,No regulado,E,4.201,6,25.206,37.487,474,538,Suficiente,Regularizar a Art 1Âº
@@ -126,3 +125,4 @@ NÂº EFE,NÂº,Nombre,PK,Block,ArtÃ­culo,Clase VÃ­a,V,T,MC=Vâ—T,IP,Dt,
 263,125,Santa Isabel,382790,LCS,2Âº,E,13,4,52,21.067,474,2,Insuficiente,Ya seÃ±alizado
 264,126,San NicolÃ¡s,387880,LCS,1Âº,E,2.68,6,16.08,422.398,474,30,Insuficiente,Seguir en Art 1Âº
 265,127,LantaÃ±o,396868,LCS,1Âº,E,13.47,6,80.82,"2,911,550",474,22,Insuficiente,Desnivelar
+
