@@ -21,3 +21,5 @@ Es valiosa porque permite dimensionar la seguridad de los cruces ferroviarios y 
 **Metodología:**
 
 Los datos fueron levantados a partir de catastros oficiales de EFE y auditorías de seguridad vial. Se emplearon instrumentos de conteo de tráfico, fórmulas de cálculo de Momento de Circulación (MC) e Índice de Peligrosidad (IP), además de inspecciones de campo y normativa técnica vigente
+
+file:///C:/Users/pepa4/Downloads/Cruces_ferroviarios_2019_tV0vhbp-2.pdf 
