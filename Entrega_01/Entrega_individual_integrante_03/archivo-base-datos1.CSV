@@ -1,9 +1,128 @@
-Tipo,Siniestros,Fallecidos,Graves,Menos Graves,Leves,Total Lesionados
-Atropello,435,235,133,21,55,209
-Caída,4,0,2,0,1,3
-Choque,84,13,11,5,23,39
-Colisión,315,47,74,25,179,278
-Descarrilamiento,14,1,0,0,2,2
-Otro tipo,47,15,7,4,17,28
-Total década,899,311,227,55,277,559
-
+Nº EFE	Nº	Nombre	PK	Block	Artículo	Clase Vía	V	T	MC=V●T	IP	Dt	Dr [m]	Visibilidad	Acción según EFE
+139	1	S/N	3.500	LCS	No regulado	C	3,155	11	33,128	697,822	296	24	Insuficiente	Regularizar a Art 1º
+140	2	S/N	4.900	LCS	No regulado	C	4,853	11	53,383	5,288,723	296	5	Insuficiente	Desnivelar
+141	3	S/N	7.250	LCS	No regulado	C	4,201	6	25,206	37,487	296	336	Suficiente	Regularizar a Art 1º
+142	4	Lo Espejo	9.600	LCS	1º y Paso Inf									Solo de emergencia
+143	5	Las Ovejas	11.622	LCS	1º	C	6,516	11	71,676	5,610,814	296	6	Insuficiente	Desnivelar
+144	6	Lo Blanco	13.650	LCS	1º	C	18,068	10	180,68	10,749,990	296	8	Insuficiente	Desnivelar
+145	7	La Selva	18.615	LCS	1º	C	9,565	10	95,65	1,338,611	296	36	Insuficiente	Seguir en Art 1º
+146	8	S/N	19.408	LCS	No regulado	C	4,571	8	36,568	58,622	296	312	Suficiente	Regularizar a Art 1º
+147	9	Nos	20.910	LCS	1º	C	10,37	9	93,33	14,542,004	296	3	Insuficiente	Desnivelar
+148	10	El Recurso	28.000	LCS	1º	C	1,882	8	15,056	591,566	296	13	Insuficiente	Seguir en Art 1º
+149	11	Los Guindos	29.800	LCS	1º	C	2,22	7	15,54	2,576,654	296	3	Insuficiente	Desnivelar
+150	12	Linderos	35.200	LCS	1º	C	5,208	5	26,04	2,227,574	296	6	Insuficiente	Desnivelar
+151	13	Bascuñan	37.600	LCS	1º	C	7,675	7	53,725	2,182,271	296	12	Insuficiente	Desnivelar
+152	14	Paine	40.950	LCS	1º	C	11,572	9	104,148	5,007,998	296	10	Insuficiente	Desnivelar
+153	15	Rinconada	43.880	LCS	1º	C	1,163	9	10,467	1,456,903	296	4	Insuficiente	Seguir en Art 1º
+154	16	Las Mulas	47.240	LCS	No regulado	C	1,401	7	9,807	958,978	296	5	Insuficiente	Regularizar a Art 1º
+155	17	Aguila Sur	51.650	LCS	1º	C	357	7	2,499	2,98	296	419	Suficiente	Volver a Art 2º
+156	18	Prat	60.375	LCS	1º	C	1,634	7	11,438	1,044,042	296	5	Insuficiente	Seguir en Art 1º
+157	19	S/N	62.178	LCS	No regulado	C	324	8	2,592	119,124	296	11	Insuficiente	Regularizar a Art 1º
+158	20	Codegua	67.165	LCS	2º	C	2,124	8	16,992	523	296	16,245	Suficiente	Seguir en Art 2º
+159	21	Graneros	70.230	LCS	1º	C	12,824	8	102,592	2,849,615	296	18	Insuficiente	Desnivelar
+160	22	Las Coloradas	78.320	LCS	1º	C	4,898	6	29,388	1,051,963	296	14	Insuficiente	Seguir en Art 1º
+161	23	S/N	82.200	LCS	No regulado	C	8,983	9	80,847	3,735,030	296	11	Insuficiente	Desnivelar
+162	24	Lo Conty	85.475	LCS	1º	C	2,019	17	34,323	2,358,777	296	7	Insuficiente	Desnivelar
+163	25	S/N	86.200	LCS	No regulado	C	2	2	4	854	296	2	Insuficiente	Regularizar a Art 2º
+164	26	Los Lirios	88.825	LCS	1º	C	5,316	8	42,528	904,546	296	24	Insuficiente	Seguir en Art 1º
+165	27	S/N	90.675	LCS	No regulado	C	69	21	1,449	172,373	296	4	Insuficiente	Regularizar a Art 1º
+166	28	S/N	91.670	LCS	No regulado	C	72	21	1,512	123,171	296	6	Insuficiente	Regularizar a Art 1º
+167	29	S/N	92.742	LCS	No regulado	C	66	21	1,386	70,572	296	10	Insuficiente	Regularizar a Art 1º
+168	30	Requinoa	95.920	LCS	1º	C	2,68	6	16,08	160,881	296	50	Insuficiente	Seguir en Art 1º
+169	31	S/N	96.630	LCS	No regulado	C	1,078	12	12,936	765,426	296	8	Insuficiente	Regularizar a Art 1º
+170	32	Los Boldos	97.750	LCS	1º	C	3,934	6	23,604	462,306	296	26	Insuficiente	Seguir en Art 1º
+171	33	Lo de Lobos	105.830	LCS	2º	C	1,713	7	11,991	512,86	296	12	Insuficiente	Ya señalizado
+172	34	Egenau	109.430	LCS	1º	C	7,733	7	54,131	2,313,664	296	12	Insuficiente	Desnivelar
+173	35	S/N	110.426	LCS	No regulado	C	12,921	6	77,526	2,222,258	296	17	Insuficiente	Desnivelar
+174	36	Chapetón	111.530	LCS	2º	C	263	5	1,315	62,268	296	11	Insuficiente	Ya señalizado
+175	37	Portezuelo	113.950	LCS	2º	C	150	9	1,35	93,766	296	7	Insuficiente	Ya señalizado
+176	38	San Luis	115.340	LCS	1º	C	2,527	6	15,162	977,511	296	8	Insuficiente	Seguir en Art 1º
+177	39	Cementerio 1	118.150	LCS	2º	C	51	21	1,071	236,559	296	2	Insuficiente	Ya señalizado
+178	40	Roma	126.650	LCS	2º	C	1,057	8	8,456	122,733	296	34	Insuficiente	Ya señalizado
+179	41	La Paloma	129.230	LCS	2º	C	817	10	8,17	157,886	296	26	Insuficiente	Ya señalizado
+180	42	Junin	133.610	LCS	1º									Eliminar
+181	43	M. Rodriguez	133.687	LCS	1º	C	12,96	6	77,76	4,070,082	296	10	Insuficiente	Desnivelar
+182	44	Tinguiririca	139.350	LCS	2º	C	4,049	5	20,245	266,331	296	38	Insuficiente	Ya señalizado
+183	45	S/N	141.680	LCS	No regulado	C	58	6	348	23,005	296	8	Insuficiente	Regularizar a Art 1º
+184	46	S/N	141.981	LCS	No regulado	C	231	3	693	17,746	296	20	Insuficiente	Regularizar a Art 1º
+185	47	S/N	142.454	LCS	No regulado	C	21	4	84	6,539	296	6	Insuficiente	Regularizar a Art 2º
+186	48	S/N	143.929	LCS	No regulado	C	197	3	591	33,558	296	9	Insuficiente	Regularizar a Art 1º
+187	49	La Cuesta	145.151	LCS	1º	C	3,731	4	14,924	504,246	296	15	Insuficiente	Seguir en Art 1º
+188	50	Porvenir	146.129	LCS	2º	C	1,872	2	3,744	112,461	296	17	Insuficiente	Ya señalizado
+189	51	Pisagua	148.450	LCS	1º	C	7,445	5	37,225	832,369	296	22	Insuficiente	Seguir en Art 1º
+190	52	La Lucana	152.950	LCS	2º	C	984	4	3,936	84,724	296	23	Insuficiente	Ya señalizado
+191	53	S/N	157.725	LCS	No regulado	C	179	3	537	13,975	296	19	Insuficiente	Regularizar a Art 1º
+192	54	S/N	166.060	LCS	No regulado	C	250	3	750	6,819	296	55	Insuficiente	Regularizar a Art 2º
+193	55	Bellavista	170.408	LCS	1º	C	5,258	4	21,032	849,329	296	12	Insuficiente	Seguir en Art 1º
+194	56	S/N	171.765	LCS	No regulado	C	38	4	152	6,676	296	11	Insuficiente	Regularizar a Art 2º
+195	57	S/N	173.400	LCS	No regulado	C	136	3	408	19,191	296	11	Insuficiente	Regularizar a Art 1º
+196	58	Sarmiento N	177.720	LCS	2º	C	1,81	3	5,43	166,442	296	16	Insuficiente	Ya señalizado
+197	59	Sarmiento S	178.450	LCS	1º	C	1,904	4	7,616	215,839	296	18	Insuficiente	Seguir en Art 1º
+198	60	El Litre	179.550	LCS	2º	C	5,232	3	15,696	615,469	296	13	Insuficiente	Ya señalizado
+199	61	El Boldo	181.760	LCS	1º	C	5,483	3	16,449	163,966	296	50	Insuficiente	Seguir en Art 1º
+200	62	Santa Fe	183.950	LCS	2º	C	5,775	3	17,325	1,035,739	296	8	Insuficiente	Ya señalizado
+201	63	C.Henriquez	184.895	LCS	1º	C	15,589	2	31,178	3,344,980	296	5	Insuficiente	Desnivelar
+202	64	Billouta	185.705	LCS	1º	C	9,716	3	29,148	1,627,430	296	9	Insuficiente	Seguir en Art 1º
+203	65	Dr. Osorio	186.350	LCS	1º	C	11,54	3	34,62	1,414,430	296	12	Insuficiente	Seguir en Art 1º
+204	66	S/N	191.620	LCS	No regulado	C	18	11	198	46,296	296	2	Insuficiente	Regularizar a Art 1º
+205	67	Quecherreguas	197.120	LCS	2º	C	135	11	1,485	657,682	296	1	Insuficiente	Regularizar a Art 1º
+206	68	La Huerta	198.240	LCS	1º	C	1	11	11	947	296	6	Insuficiente	Volver a Art 2º
+207	69	Molina	199.890	LCS	1º	C	5,801	3	17,403	561,323	296	16	Insuficiente	Seguir en Art 1º
+208	70	Itahue	207.685	LCS	2º	C	24	11	264	186,168	296	1	Insuficiente	Ya señalizado
+209	71	Camarico	217.740	LCS	1º	C	1,525	3	4,575	427,625	296	5	Insuficiente	Seguir en Art 1º
+210	72	S/N	231.932	LCS	No regulado	C	50	3	150	2,308	296	32	Insuficiente	Regularizar a Art 2º
+211	73	S/N	232.542	LCS	No regulado	C	42	3	126	205	296	307	Suficiente	Regularizar a Art 2º
+212	74	S/N	235.557	LCS	No regulado	C	211	2	422	3,425	296	62	Insuficiente	Regularizar a Art 2º
+213	75	S/N	239.070	LCS	No regulado	C	100	2	200	1,862	296	54	Insuficiente	Regularizar a Art 2º
+214	76	Pelarco	240.870	LCS	1º	C	3,538	3	10,614	83,084	296	64	Insuficiente	Seguir en Art 1º
+215	77	S/N	241.830	LCS	No regulado									eliminar
+216	78	S/N	243.350	LCS	No regulado	C	14	11	154	6,049	296	13	Insuficiente	Regularizar a Art 2º
+217	79	Los Molinos	251.230	LCS	2º	C	10,337	10	103,37	162,196	296	319	Suficiente	Ya señalizado
+218	80	S/N	253.565	LCS	No regulado	C	21	11	231	7,879	296	15	Insuficiente	Regularizar a Art 2º
+219	81	Maule	260.030	LCS	1º	C	4,036	7	28,252	1,973,526	296	7	Insuficiente	Seguir en Art 1º
+220	82	S/N	261.703	LCS	No regulado	C	2	6	12	19,897	296	0	Insuficiente	Regularizar a Art 1º
+221	83	Cantera Maule	263.120	LCS	2º	C	30	6	180	123,607	296	1	Insuficiente	Ya señalizado
+222	84	S/N	267.810	LCS	No regulado	C	80	4	320	7,001	296	23	Insuficiente	Regularizar a Art 2º
+223	85	San Javier	269.200	LCS	1º	C	882	8	7,056	481,242	296	7	Insuficiente	Seguir en Art 1º
+224	86	S/N	269.817	LCS	No regulado	C	1,023	7	7,161	750,678	296	5	Insuficiente	Regularizar a Art 1º
+225	87	Pangal	271.700	LCS	1º	C	1,231	7	8,617	195,099	296	22	Insuficiente	Seguir en Art 1º
+226	88	El Durazno	277.360	LCS	2º	C	21	6	126	149,408	296	0	Insuficiente	Ya señalizado
+227	89	Villa Alegre	279.800	LCS	1º	C	2,073	7	14,511	1,215,785	296	6	Insuficiente	Seguir en Art 1º
+228	90	Putagán Norte	287.790	LCS	2º	C	26	6	156	138,242	296	1	Insuficiente	Ya señalizado
+229	91	Putagán Sur	288.300	LCS	2º	C	10	6	60	41,238	296	1	Insuficiente	Ya señalizado
+230	92	Guadantun	291.250	LCS	2º	C	22	4	88	25,532	296	2	Insuficiente	Ya señalizado
+231	93	S/N	292.400	LCS	No regulado	C	268	6	1,608	41,261	296	19	Insuficiente	Regularizar a Art 1º
+232	94	S/N	294.400	LCS	No regulado	C	50	6	300	20,197	296	7	Insuficiente	Regularizar a Art 1º
+233	95	Las Monjas	298.480	LCS	1º	C	4,259	6	25,554	1,197,078	296	11	Insuficiente	Seguir en Art 1º
+234	96	Maipú	300.100	LCS	1º	C	7,4	5	37	1,783,378	296	10	Insuficiente	Seguir en Art 1º
+235	97	Las Delicias	300.210	LCS	1º	C	6,838	8	54,704	2,105,855	296	13	Insuficiente	Desnivelar
+236	98	S/N	300.500	LCS	No regulado	C	3,821	5	19,105	1,631,118	296	6	Insuficiente	Regularizar a Art 1º
+237	99	S/N	303.610	LCS	No regulado	C	64	5	320	9,755	296	16	Insuficiente	Regularizar a Art 2º
+238	100	El Huapi	304.670	LCS	2º	C	8	4	32	18,041	296	1	Insuficiente	Ya señalizado
+239	101	Las Motas	306.590	LCS	2º	C	16	4	64	46,308	296	1	Insuficiente	Ya señalizado
+240	102	Miraflores	309.290	LCS	1º	C	1,839	4	7,356	623,055	296	6	Insuficiente	Seguir en Art 1º
+241	103	La Granja	311.910	LCS	2º	C	31	4	124	178,319	296	0	Insuficiente	Ya señalizado
+242	104	Longaví	315.590	LCS	1º	C	7,073	4	28,292	241,691	296	59	Insuficiente	Seguir en Art 1º
+243	105	S/N	319.495	LCS	No regulado	C	301	4	1,204	87,62	296	7	Insuficiente	Regularizar a Art 1º
+244	106	Talquita	325.860	LCS	1º	C	770	6	4,62	232,228	296	10	Insuficiente	Seguir en Art 1º
+245	107	Retiro	328.450	LCS	1º	C	1,322	5	6,61	87,461	296	38	Insuficiente	Seguir en Art 1º
+246	108	S/N	331.910	LCS	No regulado	C	196	5	980	54,021	296	9	Insuficiente	Regularizar a Art 1º
+247	109	Copihue	333.020	LCS	1º	C	676	5	3,38	233,913	296	7	Insuficiente	Seguir en Art 1º
+248	110	Cementerio 2	337.270	LCS	2º	C	20	4	80	276,283	296	0	Insuficiente	Ya señalizado
+249	111	estación Parral	340.000	LCS	2º	C	5,149	4	20,596	1,217,379	296	8	Insuficiente	Ya señalizado
+250	112	S/N	342.169	LCS	No regulado	C	43	9	387	722	296	268	Insuficiente	Regularizar a Art 2º
+251	113	Perquilauquen	351.700	LCS	2º	C	22	4	88	211,651	296	0	Insuficiente	Ya señalizado
+252	114	S/N	353.945	LCS	No regulado	C	9	4	36	317	296	57	Insuficiente	Regularizar a Art 2º
+253	115	San Gregorio	357.180	LCS	2º	C	44	4	176	138,046	296	1	Insuficiente	Ya señalizado
+254	116	S/N	361.200	LCS	No regulado	C	52	5	260	1,602	296	81	Insuficiente	Regularizar a Art 2º
+255	117	Estación Buli	356.010	LCS	2º	C	15	4	60	16,825	296	2	Insuficiente	Ya señalizado
+256	118	Tomás Yavar	372.300	LCS	1º	C	5,458	4	21,832	584,645	296	19	Insuficiente	Seguir en Art 1º
+257	119	Vic Mackenna	372.900	LCS	1º	C	7,53	4	30,12	4,250,299	296	4	Insuficiente	Desnivelar
+258	120	O'Higgins	374.050	LCS	1º	C	1,683	8	13,464	415,629	296	16	Insuficiente	Seguir en Art 1º
+259	121	S/N	375.310	LCS	No regulado	C	116	5	580	2,097	296	138	Insuficiente	Regularizar a Art 2º
+260	122	S/N	377.065	LCS	No regulado	C	14	4	56	13,012	296	2	Insuficiente	Regularizar a Art 1º
+261	123	San Pedro	379.020	LCS	2º	C	15	4	60	9,906	296	3	Insuficiente	Volver a Art 2º
+262	124	Ninquihue	380.700	LCS	2º	C	23	4	92	17,635	296	3	Insuficiente	Ya señalizado
+263	125	Santa Isabel	382.790	LCS	2º	C	13	4	52	21,067	296	1	Insuficiente	Ya señalizado
+264	126	San Nicolás	387.880	LCS	1º	C	2,68	6	16,08	422,398	296	19	Insuficiente	Seguir en Art 1º
+265	127	Lantaño	396.868	LCS	1º	C	13,47	6	80,82	2,911,550	296	14	Insuficiente	Desnivelar
