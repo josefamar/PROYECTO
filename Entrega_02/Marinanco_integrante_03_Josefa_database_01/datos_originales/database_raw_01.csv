@@ -1,55 +1,54 @@
 ,,,
-Categoría,Rk,Comuna,IPS 2024
-,1°,La Pintana,89.36
-ALTA PRIORIDAD,2°,Lo Espejo Cerro Navia Maria Pinto,87
-SOCIAL,3°,San Ramon,85.74
-,4°,,83.02
-,5°,,80.61
-,6°,San Pedro,80.07
-,7°,El Monte,77.53
-,8°,Melipilla,77.05
-,9°,Pedro Aguirre Cerda,76.22
-,10°,El Bosque,74.09
-,11°,ConchalÃ­,73.65
-,12°,Isla de Maipo,73.35
-MEDIA ALTA PRIORIDAD SOCIAL,13Â°,San JosÃ© de Maipo Renca,72.81
-,14°,La Granja,72.73
-,15°,San JoaquÃ­n,72.69
-,16°,,72.02
-,17°,Recoleta,71.95
-,18°,EstaciÃ³n Central,70.92
-,19°,AlhuÃ©,70.78
-,20°,San Bernardo,70.66
-,21°,Paine,69.43
-,22°,Lo Prado,69.36
-,23°,Quinta Normal,68.4
-,24°,Tiltil,68.38
-,25°,CuracavÃ­,67.2
-,26°,Cerrillos,65.71
-,27°,Pudahuel,65.62
-MEDIA BAJA PRIORIDAD SOCIAL,28°,Buin Independencia Talagante,65.43
-,29°,Lampa,64.49
-,30°,,63.76
-,31°,,63.64
-,32°,Padre Hurtado,63.25
-,33°,PeÃ±aflor,61.73
-,34°,Puente Alto,61.46
-,35°,Pirque,60.64
-,36°,La Cisterna,60.61
-,37°,Calera de Tango,58.99
-,38°,PeÃ±alolÃ©n,57.84
-,39°,La Florida,57.81
-BAJA PRIORIDAD SOCIAL,40°,MaipÃº Santiago Quilicura,57.25
-,41°,Huechuraba,55.33
-,42°,,55.19
-,43°,,52.32
-,44°,Colina,51.58
-,45°,San Miguel,50.33
-,46°,Macul,44.36
-,47°,La Reina,32.42
-SIN PRIORIDAD SOCIAL,48°,Ã‘uÃ±oa,30.63
-,49°,Lo Barnechea Providencia,24.97
-,50°,Las Condes,20.18
-,51°,,13.19
-,52°,Vitacura,3.32
-
+CategorÃ­a,Rk,Comuna,IPS 2024
+Alta prioridad social,1Â°,La Pintana,89.36
+,2Â°,Lo Espejo,87
+,3Â°,Cerro Navia,85.74
+,4Â°,MarÃ­a Pinto,83.02
+,5Â°,San RamÃ³n,80.61
+,6Â°,San Pedro,80.07
+Media alta prioridad social,7Â°,El Monte,77.53
+,8Â°,Melipilla,77.05
+,9Â°,Pedro Aguirre Cerda,76.22
+,10Â°,El Bosque,74.09
+,11Â°,ConchalÃ­,73.65
+,12Â°,Isla de Maipo,73.35
+,13Â°,San JosÃ© de Maipo ,72.81
+,14Â°,Renca,72.73
+,15Â°,La Granja,72.69
+,16Â°,San JoaquÃ­n,72.02
+,17Â°,Recoleta,71.95
+,18Â°,EstaciÃ³n Central,70.92
+,19Â°,AlhuÃ©,70.78
+,20Â°,San Bernardo,70.66
+,21Â°,Paine,69.43
+,22Â°,Lo Prado,69.36
+Media baja priorida social,23Â°,Quinta Normal,68.4
+,24Â°,Tiltil,68.38
+,25Â°,CuracavÃ­,67.2
+,26Â°,Cerrillos,65.71
+,27Â°,Pudahuel,65.62
+,28Â°,Buin,65.43
+,29Â°,Independencia,64.49
+,30Â°,Talagante,63.76
+,31Â°,Lampa,63.64
+,32Â°,Padre Hurtado,63.25
+,33Â°,PeÃ±aflor,61.73
+,34Â°,Puente Alto,61.46
+,35Â°,Pirque,60.64
+,36Â°,La Cisterna,60.61
+BAJA PRIORIDAD SOCIAL,37Â°,Calera de Tango,58.99
+,38Â°,PeÃ±alolÃ©n,57.84
+,39Â°,La Florida,57.81
+,40Â°,MaipÃº ,57.25
+,41Â°,Santiago,55.33
+,42Â°,Quilicura,55.19
+,43Â°,Huechuraba,52.32
+,44Â°,Colina,51.58
+,45Â°,San Miguel,50.33
+,46Â°,Macul,44.36
+SIN PRIORIDAD SOCIAL,47Â°,La Reina,32.42
+,48Â°,Ã‘uÃ±oa,30.63
+,49Â°,Lo Barnechea ,24.97
+,50Â°,Providencia,20.18
+,51Â°,Las Condes,13.19
+,52Â°,Vitacura,3.32
