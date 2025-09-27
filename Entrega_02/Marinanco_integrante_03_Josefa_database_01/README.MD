@@ -14,7 +14,9 @@ Añadir esta información es vital para poder comprender las condiciones en las 
 
 **Preguntas:**
 1- ¿Varían las medidas de seguridad en cada cruce dependiendo la comuna en que este se encuentre?
+
 2- ¿Cuál es la relación entre la existencia de cruces ferroviarios no oficiales en comunas como San Bernardo?
+
 3- ¿Los cruces no oficiales en qué condiciones se encuentran para el uso de los peatones?
 
 
