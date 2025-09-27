@@ -1,0 +1,18 @@
+Nº EFE,Nº,Nombre del cruce,Artí­culo regulador,Clase Ví­a,Visibilidad,Acción según EFE,Comuna,Nivel de prioridad social
+139,1,S/N,No regulado,C,Insuficiente,Regularizar a Art 1º,Pedro Aguirre Cerda,Media alta prioridad
+140,2,S/N,No regulado,C,Insuficiente,Desnivelar,Pedro Aguirre Cerda,Media alta prioridad
+141,3,S/N,No regulado,C,Suficiente,Regularizar a Art 1º,Pedro Aguirre Cerda,Media alta prioridad
+142,4,Lo Espejo,1º y Paso Inf,,,Solo de emergencia,Lo espejo,Alta prioridad
+143,5,Las Ovejas,1º,C,Insuficiente,Desnivelar,El Bosque,Media alta prioridad
+144,6,Lo Blanco,1º,C,Insuficiente,Desnivelar,El Bosque,Media alta prioridad
+145,7,La Selva,1º,C,Insuficiente,Seguir en Art 1º,San Bernardo,Media alta prioridad
+146,8,S/N,No regulado,C,Suficiente,Regularizar a Art 1º,San Bernardo,Media alta prioridad
+147,9,Nos,1º,C,Insuficiente,Desnivelar,San Bernado,Media alta prioridad
+148,10,El Recurso,1º,C,Insuficiente,Seguir en Art 1º,Bui­n,Media baja prioridad
+149,11,Los Guindos,1º,C,Insuficiente,Desnivelar,Buin,Media baja prioridad
+150,12,Linderos,1º,C,Insuficiente,Desnivelar,Buin,Media baja prioridad
+151,13,BascuÃ±an,1º,C,Insuficiente,Desnivelar,Bui­n,Media baja prioridad
+152,14,Paine,1º,C,Insuficiente,Desnivelar,Paine,Media alta prioridad
+153,15,Rinconada,1º,C,Insuficiente,Seguir en Art 1º,Paine,Media alta prioridad
+154,16,Las Mulas,No regulado,C,Insuficiente,Regularizar a Art 1º,Paine,Media alta prioridad
+155,17,Aguila Sur,1º,C,Suficiente,Volver a Art 2º,Paine,Media alta prioridad
