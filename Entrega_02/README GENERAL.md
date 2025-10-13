@@ -12,7 +12,13 @@ Los atropellos en las vías férreas de la Región Metropolitana se deben a un s
 
 Esta pregunta la elegimos porque se requiere una explicación que considere no solo las imprudencias del peatón, sino que las fallas estructurales del sistema ferroviario chileno que las permiten.  
 
-*2- ¿?*
+*2- ¿Existe relación entre cantidad de siniestros y severidad de sus consecuencias según la hora del día?*
+
+Nos parece interesante saber si existe una relación entre la hora de los accidentes y la peligrosidad en las lesiones, sobre todo porque se puede relacionar incluso puede ser una causa más de producir estos siniestros que habría que considerar.  
+
+*3- ¿Se relaciona la seguridad de los cruces ferroviarios con la comuna en la que están ubicados?*
+
+Esta pregunta sirve para profundizar más en nuestra investigación porque de alguna manera caracteriza la zonas del terreno que estamos investigando
 
 ### **Avance del proyecto:**
 

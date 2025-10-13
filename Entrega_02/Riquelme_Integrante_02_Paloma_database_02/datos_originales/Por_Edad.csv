@@ -1,0 +1,8 @@
+﻿Edad,Grupo etario,Participantes,Fallecidos,Graves,Menos graves,Leves,Total lesionados
+0 a 14 años,Niños,2,0,0,0,2,2
+15 a 29 años,Jóvenes,32,4,3,4,6,13
+30 a 44 años,Adultos jóvenes,66,7,9,3,3,13
+45 a 59 años,Adultos,70,7,12,0,5,20
+60 años y más,Personas mayores,31,2,3,0,4,7
+No se informa,,17,9,2,0,1,3
+Total,,218,29,29,8,21,58
