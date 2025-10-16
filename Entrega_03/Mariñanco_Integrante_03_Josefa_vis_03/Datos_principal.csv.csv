@@ -1,0 +1,19 @@
+Nº EFE,Nº,Nombre del cruce,Artículo regulador,Clase Vía,Visibilidad,Acción según EFE,Comuna,Nivel de prioridad social,"Densidad poblacional por km cuadrado
+",Índice de Comuna Rural/Urbana,Tipo de  suelo en uso,Estado actual
+139,1,S/N,No regulado,C,Insuficiente,Regularizar a Art 1º,Pedro Aguirre Cerda,Media alta prioridad,9606.2,100% Urbana,Residencial,Clausurado
+140,2,S/N,No regulado,C,Insuficiente,Desnivelar,Pedro Aguirre Cerda,Media alta prioridad,9606,100% Urbana,Residencial,Clausurado
+141,3,S/N,No regulado,C,Suficiente,Regularizar a Art 1º,Pedro Aguirre Cerda,Media alta prioridad,9606.2,100% Urbana,Residencial,Clausurado
+142,4,Lo Espejo,1º y Paso Inf,,,Solo de emergencia,Lo espejo,Alta prioridad,12470.1,100% Urbana,Residencial,
+143,5,Las Ovejas,1º,C,Insuficiente,Desnivelar,El Bosque,Media alta prioridad,10933.5,100% Urbana,Actividades Productivas,Clausurado
+144,6,Lo Blanco,1º,C,Insuficiente,Desnivelar,El Bosque,Media alta prioridad,10933.5,100% Urbana,Residencial,Clausurado
+145,7,La Selva,1º,C,Insuficiente,Seguir en Art 1º,San Bernardo,Media alta prioridad,1976.5,Mixta (1.354% de Población Rural),Residencial,En uso
+146,8,S/N,No regulado,C,Suficiente,Regularizar a Art 1º,San Bernardo,Media alta prioridad,1976.5,Mixta (1.354% de Población Rural),Residencial,En uso
+147,9,Nos,1º,C,Insuficiente,Desnivelar,San Bernado,Media alta prioridad,1976.5,Mixta (1.354% de Población Rural),Actividades Productivas,Clausurado
+148,10,El Recurso,1º,C,Insuficiente,Seguir en Art 1º,Buín,Media baja prioridad,546.5,"Mixta (13,7% de Población Rural)",Actividades Productivas,En uso
+149,11,Los Guindos,1º,C,Insuficiente,Desnivelar,Buín,Media baja prioridad,546.5,"Mixta (13,7% de Población Rural)",Actividades Productivas,En uso
+150,12,Linderos,1º,C,Insuficiente,Desnivelar,Buín,Media baja prioridad,546.5,"Mixta (13,7% de Población Rural)",Recidencial,En uso
+151,13,Bascuñan,1º,C,Insuficiente,Desnivelar,Buín,Media baja prioridad,546.5,"Mixta (13,7% de Población Rural)",Reciencial,En Uso
+152,14,Paine,1º,C,Insuficiente,Desnivelar,Paine,Medía alta prioridad,96.1,Mixta (35% de Población Rural),Recidencial,En Uso
+153,15,Rinconada,1º,C,Insuficiente,Seguir en Art 1º,Paine,Media alta prioridad,96.1,Mixta (35% de Población Rural),Residencial,En Uso
+154,16,Las Mulas,No regulado,C,Insuficiente,Regularizar a Art 1º,Paine,Media alta prioridad,96.1,Mixta (35% de Población Rural),Recidencial,En Uso
+155,17,Aguila Sur,1º,C,Suficiente,Volver a Art 2º,Paine,Media alta prioridad,96.1,Mixta (35% de Población Rural),Recidencial,En Uso
