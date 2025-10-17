@@ -1,4 +1,4 @@
-#Crónica
+# Crónica
 
 Cada año, decenas de personas mueren o resultan heridas en las vías férreas de Chile. Los siniestros ferroviarios, aunque menos frecuentes que los de tránsito vehicular, tienen consecuencias graves y muchas veces invisibles para la opinión pública. Según el último informe de la Comisión Nacional de Seguridad de Tránsito (CONASET), solo en 2023 se registraron 95 siniestros ferroviarios, con 35 fallecidos La mayoría de estos casos se concentran en la Región Metropolitana, O’Higgins y Maule, donde la red de trenes convive con zonas urbanas densas y cruces a nivel que no siempre cuentan con la protección adecuada
 
@@ -9,6 +9,7 @@ El análisis territorial revela una correlación clara entre la presencia de cru
 La normativa chilena sobre cruces ferroviarios, establecida por el Decreto Supremo 38 de 1986, distingue entre cruces con y sin barreras, y establece criterios para su protección y señalización. Sin embargo, la realidad supera a la norma: muchos cruces formales carecen de infraestructura adecuada, y los informales quedan fuera de cualquier regulación. El Ministerio de Transportes ha propuesto en los últimos años una actualización de la normativa, con nuevos estándares de protección y criterios para la desnivelación de cruces en función del índice de peligrosidad
 
 **Fuente**
+
 1."Definición de Estandares de Soluci+on de Cruces Ferroviarios en Función de su Índice de Peligrosidad" del Ministerio de Transporte y Telecomunicaciones
 
 2."Índice de Prioridad Social de Comunas 2024" de la SEREMI de Desarrollo Social y Familia Metropolitana
