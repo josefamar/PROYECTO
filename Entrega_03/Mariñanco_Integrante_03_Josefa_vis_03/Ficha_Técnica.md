@@ -10,6 +10,7 @@ Para poder tener las variables de demografía e índice de ruralidad/urbanidad, 
 Con Google Maps, mediante la observación, pude constatar el estado de la infraestructura de los cruces, los cuales varían mucho dependiendo de su regulación. En el caso de aquellos que están regularizado por EFE y están en uso actualmente, cuentan con pasos con barreras para el tránsito de vehículos, mientras que para aquellos que son exclusivos para peatones, cuentan con una clavada en buen estado, que permite que cualquier usuario pueda usar este paso, que además cuenta con una pequeñas barreras.
 
 **Fuentes**
+
 1.Biblioteca Nacional del Congreso: https://www.bcn.cl/siit/siit/mapoteca/mapas_antiguos/comunas
 
 2.Instituto Nacional de Estadistica: https://www.ine.gob.cl/estadisticas/sociales/demografia-y-vitales/proyecciones-de-poblacion
