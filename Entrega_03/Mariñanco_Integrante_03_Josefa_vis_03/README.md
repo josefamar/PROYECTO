@@ -1,4 +1,5 @@
-# README Personal
+# README
+**Por Josefa Mariñanco**
 <div style="text-align: justify;">
 El proceso de visualización de datos comenzó con la recopilación y revisión de dos bases de datos en formato Excel, que contenían información sobre cruces ferroviarios en distintas comunas de la Región Metropolitana. Estas bases incluían variables como el nombre del cruce, tipo de regulación (regulado o irregular), comuna, nivel de prioridad social, densidad poblacional, tipo de suelo, estado actual del cruce y distancia entre los cruces irregulares de los regulares. 
 
