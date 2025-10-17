@@ -18,16 +18,6 @@ Los atropellos en las vías férreas de la Región Metropolitana se deben a un s
 
 ### Avance del proyecto en relación con la hipótesis y preguntas de investigación
 
-Durante esta etapa, el grupo fortaleció su trabajo de análisis al ampliar las fuentes y temporalidades de los datos y al diferenciar tres dimensiones complementarias del fenómeno:
-
-- *Integrante 1:* Andrés centró su trabajo en 
-
-- *Interante 2:* Paloma trabajó con los datos comparativos de accidentes (por edad, horario y día de la semana), extendiendo la base entre 2019 y 2024, lo que permitió observar patrones temporales y demográficos.
-
-- *Integrante 3:* Josefa
-
-
-
 La combinación de estas tres perspectivas permitió reformular la hipótesis inicial, que antes se enfocaba en un déficit estructural general, para delimitarla a una problemática más concreta y medible: la seguridad ferroviaria en la Región Metropolitana, abordada desde la señalización, la infraestructura y las condiciones humanas de los siniestros.
 
 En términos de avance, se logró unificar criterios metodológicos en la limpieza y normalización de datos, separando correctamente las bases según su naturaleza y evitando cruces indebidos de información. Además, se incorporaron bases históricas de distintos años, lo que hizo posible comenzar a analizar tendencias y no solo cifras estáticas.
