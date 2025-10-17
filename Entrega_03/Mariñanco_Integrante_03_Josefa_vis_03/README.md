@@ -1,10 +1,17 @@
 # README Personal
-El proceso de visualización de datos comenzó con la recopilación y revisión de dos bases de datos en formato Excel, que contenían información sobre cruces ferroviarios en distintas comunas de la Región Metropolitana. Estas bases incluían variables como el nombre del cruce, tipo de regulación (regulado o irregular), comuna, nivel de prioridad social, densidad poblacional, tipo de suelo, estado actual del cruce y distancia entre los cruces irregulares de los regulares. Para facilitar el análisis y la visualización, ambas bases fueron unificadas en un solo archivo CSV llamado “Datos_unificado.csv”, lo que permitió trabajar con todos los registros en conjunto y evitar duplicidades o inconsistencias.
+El proceso de visualización de datos comenzó con la recopilación y revisión de dos bases de datos en formato Excel, que contenían información sobre cruces ferroviarios en distintas comunas de la Región Metropolitana. Estas bases incluían variables como el nombre del cruce, tipo de regulación (regulado o irregular), comuna, nivel de prioridad social, densidad poblacional, tipo de suelo, estado actual del cruce y distancia entre los cruces irregulares de los regulares. 
+
+Para facilitar el análisis y la visualización, ambas bases fueron unificadas en un solo archivo CSV llamado “Datos_unificado.csv”, lo que permitió trabajar con todos los registros en conjunto y evitar duplicidades o inconsistencias.
+
 El primer paso fue limpiar y normalizar los datos. Se revisaron los nombres de las columnas para eliminar espacios, tildes y saltos de línea, y se estandarizaron los valores de la variable “regulación” para asegurar que todos los cruces estuvieran correctamente clasificados como “Regulado” o “Irregular”.
+
 La visualización se realizó utilizando la librería Altair en Google Colab, seleccionando un gráfico de barras agrupadas por comuna y color por tipo de regulación. Esta elección se basó en la necesidad de mostrar de manera clara y directa la cantidad de cruces regulados e irregulares en cada comuna, permitiendo comparar rápidamente la distribución y frecuencia de ambos tipos de cruces. El gráfico de barras es una herramienta sencilla y efectiva para comunicar diferencias y patrones.
+
 El procesamiento de la base de datos incluyó la normalización de categorías, la agrupación por comuna y regulación. Este enfoque permitió construir una narrativa visual que apoya la hipótesis sobre la concentración de cruces irregulares en ciertas comunas y su posible relación con factores como la densidad poblacional y el tipo de suelo.
 
 ## Pregunta:
 ¿En qué comunas se concentran los cruces irregulares? 
+
 ¿Cuál es la proporción de cruces regulados versus irregulares en cada territorio?
+
 ¿Existen diferencias entre el estado de regulación y la comuna en la que se ubican los cruces?
