@@ -1,0 +1,40 @@
+Tramo EFE;Región de inicio tramo;Sistema de señalización
+Saladillo - Río Blanco;Valparaíso;AUV
+Río Blanco - Los Andes ;Valparaíso;AUV
+Los Andes - LlayLlay ;Valparaíso;AUV
+LlayLlay - San Pedro;Valparaíso;AUV
+San Pedro - Limache;Valparaíso;AUV
+San Pedro - Ventanas;Valparaíso;AUV
+Limache - Valparaíso (Puerto);Valparaíso;ERTMS N1
+LlayLlay - Montenegro;Valparaíso;AUV
+Montenegro - Alameda ;Metropolitana;AUV
+Alameda - Malloco;Metropolitana;AUV
+Malloco - Talagante ;Metropolitana;AUV
+Talagante - Melipilla;Metropolitana;AUV
+Melipilla - San Antonio (Barrancas);Metropolitana;AUV
+Alameda - Nos;Metropolitana;ERTMS N1
+Nos - Paine;Metropolitana;CTC
+Paine - Rancagua ;Metropolitana;CTC
+Rancagua - San Fernando ;Lib. Bdo. O´Higgins;CTC
+San Fernando - Talca ;Lib. Bdo. O´Higgins;CTC
+Talca - Constitución;Maule;AUV
+Talca - Chillán ;Maule;CTC
+Chillán - Rucapequen ;Ñuble;AUV
+Rucapequen - Nueva Aldea;Ñuble;AUV
+Rucapequen - San Rosendo;Ñuble;AUV
+San Rosendo - Hualqui;Bio-Bio;SSE/SB
+Hualqui - Concepción ;Bio-Bio;CTC
+Concepción - Lirquén ;Bio-Bio;AUV
+Concepción - Talcahuano  ;Bio-Bio;CTC
+Concepción - Lomas Coloradas ;Bio-Bio;CTC
+Lomas Coloradas - Coronel ;Bio-Bio;CTC
+Coronel - Lota ;Bio-Bio;AUV
+Lota - Horcones ;Bio-Bio;AUV
+San Rosendo - Santa Fe;Bio-Bio;AUV
+Santa Fe - Coigue ;Bio-Bio;AUV
+Coigue - Nacimiento ;Bio-Bio;AUV
+Coigue - Victoria ;Bio-Bio;AUV
+Victoria - Temuco ;Araucanía;SSE/SB
+Temuco - Antilhue ;Araucanía;AUV
+Antilhue - Valdivia;Los Ríos;AUV
+Antilhue - Puerto Montt ;Los Ríos;AUV
