@@ -123,7 +123,8 @@ Estos patrones se explican en parte por el funcionamiento de los sistemas de con
 
 La combinación de imprudencia individual con infraestructura defectuosa aparece de manera transversal en todos los cruces analizados. Si bien las decisiones humanas —cruzar sin mirar, evadir barreras, subestimar la velocidad del tren— son un factor relevante, estas conductas se ven amplificadas cuando la señalización no es clara, está dañada o no existe. Allí se forma un punto ciego crítico: el sistema no previene comportamientos esperables en contextos de alta circulación.
 
-En conjunto, los datos muestran un escenario donde la seguridad ferroviaria depende tanto del comportamiento humano como de la capacidad técnica de los cruces para advertir y proteger. Los siniestros no se distribuyen al azar, sino que se concentran en grupos, horarios y condiciones que la infraestructura actual no aborda adecuadamente. "Punto Ciego" busca justamente revelar estas zonas invisibilizadas, donde el riesgo existe pero permanece fuera del foco hasta que las cifras lo hacen evidente.
+
+
 
 
 
