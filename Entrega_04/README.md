@@ -99,7 +99,7 @@ En conjunto, esta sección evidencia dos dimensiones clave del problema: por un 
 ### Actualizacion de hipotesis
 Despues de la entrega fallida y de las correcciones y sugerencias que nos recomendo nuestra nueva hipotesis es esta: 
 
-*"Los atropellos en las vías férreas desde Estación central hasta el limite con la region de O´higgins no responden a una sola causa, sino a la interacción entre conductas individuales de riesgo y condiciones estructurales del sistema ferroviario. Si bien la imprudencia de peatones es un factor recurrente, esta se ve favorecida por la vulnerabilidad técnica de la señalización, la irregularidad del mantenimiento y la degradación de cruces y tramos, lo que aumenta la probabilidad de incidentes."*
+*"Los atropellos en las vías férreas desde Estación central hasta el limite con la region de O´higgins no responden a una sola causa, sino a la interacción entre conductas individuales de riesgo y condiciones estructurales del sistema ferroviario. Si bien la imprudencia de peatones es un factor recurrente, esta se ve favorecida por la vulnerabilidad técnica de la señalización, la irregularidad del mantenimiento y la degradación de cruces y tramos, lo que aumenta la probabilidad de incidentes".*
 
 
 
