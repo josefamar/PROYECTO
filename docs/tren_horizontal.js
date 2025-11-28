@@ -108,20 +108,15 @@ document.querySelector(".railway__labels").addEventListener("click", e => {
   });
 });
 
-/* Estado inicial */
-setTrainPosition(0);
-// ===== Pantalla de Bienvenida =====
-document.body.classList.add("landing-active");
-
-const landing = document.getElementById("landing-screen");
-const startBtn = document.getElementById("start-btn");
-
-startBtn.addEventListener("click", () => {
-  landing.style.opacity = "0";
+// ================= PANTALLA DE BIENVENIDA =================
+document.getElementById("start-btn").addEventListener("click", () => {
+  const intro = document.getElementById("intro-screen");
+  intro.style.opacity = "0";
+  intro.style.transition = "opacity 0.6s ease";
 
   setTimeout(() => {
-    landing.style.display = "none";
-    document.body.classList.remove("landing-active");
-    window.location.hash = "#s1";
+    intro.style.display = "none";
+    document.getElementById("s1").scrollIntoView({ behavior: "smooth" });
   }, 600);
 });
+

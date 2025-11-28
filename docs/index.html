@@ -1,6 +1,27 @@
 <!doctype html>
 <html lang="es">
 <head>
+  <!-- ======================= PANTALLA DE BIENVENIDA ======================= -->
+<div id="intro-screen">
+  <div class="intro-content">
+
+    <!-- Tren centrado -->
+    <svg class="intro-train" viewBox="0 0 64 40" aria-hidden="true">
+      <rect x="4" y="10" width="40" height="18" rx="3" ry="3" />
+      <rect x="12" y="6" width="22" height="6" rx="2" ry="2" />
+      <rect x="8" y="14" width="10" height="6" rx="1" />
+      <rect x="22" y="14" width="10" height="6" rx="1" />
+      <circle cx="14" cy="30" r="4" />
+      <circle cx="32" cy="30" r="4" />
+      <circle cx="42" cy="18" r="2" class="headlight" />
+    </svg>
+
+    <!-- Botón -->
+    <button id="start-btn">Comenzar el viaje</button>
+
+  </div>
+</div>
+<!-- ====================================================================== -->
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>Punto ciego · Rieles en riesgo</title>
@@ -13,28 +34,6 @@
   <!-- Estilos específicos del tren -->
   <link href="tren_horizontal.css" rel="stylesheet" />
 </head>
-<!-- ===== Pantalla de Bienvenida ===== -->
-<div id="landing-screen" class="landing">
-  <div class="landing-inner">
-    
-    <svg class="landing-train" viewBox="0 0 64 40">
-      <rect x="4" y="10" width="40" height="18" rx="3" ry="3" />
-      <rect x="12" y="6" width="22" height="6" rx="2" ry="2" />
-      <rect x="8" y="14" width="10" height="6" rx="1" />
-      <rect x="22" y="14" width="10" height="6" rx="1" />
-      <circle cx="14" cy="30" r="4" />
-      <circle cx="32" cy="30" r="4" />
-      <circle cx="14" cy="30" r="2" class="wheel-inner" />
-      <circle cx="32" cy="30" r="2" class="wheel-inner" />
-      <circle cx="42" cy="18" r="2" class="headlight" />
-    </svg>
-
-    <h1 class="landing-title">Rieles en Riesgo</h1>
-    <p class="landing-subtitle">Una historia sobre los cruces que siguen siendo punto ciego</p>
-
-    <button id="start-btn" class="landing-btn">🚆 Comenzar el viaje</button>
-  </div>
-</div>
 <body>
 
 <!-- PRELOADER: tren entrando -->
