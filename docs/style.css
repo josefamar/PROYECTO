@@ -227,24 +227,11 @@ section {
     background: rgba(15, 23, 42, 0.7);
   }
 }
-
-/* Footer */
-
-.site-footer {
-  background: #020617;
-  color: #9ca3af;
-  padding: 1.5rem 0 2rem;
-  font-size: 0.8rem;
-}
-
-.site-footer__inner {
-  text-align: center;
-}
 /* ===== Pantalla inicial ===== */
 .landing {
   position: fixed;
   inset: 0;
-  background: radial-gradient(circle at center, #1d4ed8 0%, #0f172a 60%, #020617 50%);
+  background: radial-gradient(circle at center, #1d4ed8 0%, #0f172a 30%, #020617 50%);
   display: flex;
   justify-content: center;
   align-items: center;
@@ -310,4 +297,18 @@ section {
 /* Ocultar scroll mientras está la intro */
 body.landing-active {
   overflow: hidden;
+}
+
+
+/* Footer */
+
+.site-footer {
+  background: #020617;
+  color: #9ca3af;
+  padding: 1.5rem 0 2rem;
+  font-size: 0.8rem;
+}
+
+.site-footer__inner {
+  text-align: center;
 }
