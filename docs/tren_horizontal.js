@@ -110,3 +110,18 @@ document.querySelector(".railway__labels").addEventListener("click", e => {
 
 /* Estado inicial */
 setTrainPosition(0);
+// ===== Pantalla de Bienvenida =====
+document.body.classList.add("landing-active");
+
+const landing = document.getElementById("landing-screen");
+const startBtn = document.getElementById("start-btn");
+
+startBtn.addEventListener("click", () => {
+  landing.style.opacity = "0";
+
+  setTimeout(() => {
+    landing.style.display = "none";
+    document.body.classList.remove("landing-active");
+    window.location.hash = "#s1";
+  }, 600);
+});
