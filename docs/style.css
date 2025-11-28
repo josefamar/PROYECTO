@@ -244,7 +244,7 @@ section {
 .landing {
   position: fixed;
   inset: 0;
-  background: radial-gradient(circle at center, #1d4ed8 0%, #0f172a 60%, #020617 100%);
+  background: radial-gradient(circle at center, #1d4ed8 0%, #0f172a 60%, #020617 50%);
   display: flex;
   justify-content: center;
   align-items: center;
