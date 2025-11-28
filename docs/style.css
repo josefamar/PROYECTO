@@ -19,7 +19,7 @@
    RESET + BASE
 =========================================================== */
 html {
-  scroll-behavior: smooth;
+  scroll-margin-top: calc(var(--bar-h) + 60px);
 }
 
 body {
