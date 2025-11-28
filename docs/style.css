@@ -245,3 +245,24 @@ section {
     padding: 6rem 0;
   }
 }
+.links-list a:hover {
+  text-decoration: underline;
+}
+
+.links-footnote {
+  font-size: 0.8rem;
+  color: #9ca3af;
+}
+
+/* Footer */
+
+.site-footer {
+  background: #020617;
+  color: #9ca3af;
+  padding: 1.5rem 0 2rem;
+  font-size: 0.8rem;
+}
+
+.site-footer__inner {
+  text-align: center;
+}
