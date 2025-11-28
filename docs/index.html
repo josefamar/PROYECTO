@@ -247,10 +247,6 @@
       </div>
     </section>
   </main>
-
-
-
-
       </div>
       <div class="section-icon">
         <svg class="icon icon--right">
@@ -290,6 +286,7 @@
     </section>
   </main>
 
+  
   <footer class="site-footer">
     <div class="container site-footer__inner">
       <p class="site-footer__copy">
@@ -300,20 +297,4 @@
       </p>
     </div>
   </footer>
-
-  <!-- JS mínimo: menú mobile (si lo necesitas) -->
-  <script>
-    const navToggle = document.querySelector('.site-nav__toggle');
-    const navMenu = document.querySelector('#site-nav-menu');
-
-    if (navToggle && navMenu) {
-      navToggle.addEventListener('click', () => {
-        const isOpen = navToggle.getAttribute('aria-expanded') === 'true';
-        navToggle.setAttribute('aria-expanded', String(!isOpen));
-        navMenu.classList.toggle('site-nav__list--open');
-      });
-    }
-  </script>
-</body>
-</html>
 
