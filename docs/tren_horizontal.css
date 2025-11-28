@@ -71,7 +71,7 @@
 ============================= */
 
 .track {
-  width: 100%;
+  width: 80%;
   height: var(--track-h);
   background: #CBD5E1;
   border-radius: 999px;
