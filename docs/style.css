@@ -228,32 +228,6 @@ section {
   }
 }
 
-/* ===========================================================
-   RESPONSIVE
-=========================================================== */
-@media (max-width: 900px) {
-  .container {
-    padding: 0 1.5rem;
-  }
-
-  .hero-layout,
-  .two-cols {
-    grid-template-columns: 1fr;
-  }
-
-  section {
-    padding: 6rem 0;
-  }
-}
-.links-list a:hover {
-  text-decoration: underline;
-}
-
-.links-footnote {
-  font-size: 0.8rem;
-  color: #9ca3af;
-}
-
 /* Footer */
 
 .site-footer {
