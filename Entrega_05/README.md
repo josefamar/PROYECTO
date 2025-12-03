@@ -16,7 +16,7 @@ Esta última la logramos demostrar y se ajusta a nuestro reportaje. Esto no fue 
 |--------------------|----------|----------|---------|
 | Visualizacion 1    | Paloma   |          |         |
 | Visualizacion 2    |          |Andrés    |         |
-| Visualizacion 3    |          |Adnrés    |         |
+| Visualizacion 3    |          |Andrés    |         |
 | Visualizacion 4    |          |          |Josefa   |
 | Visualizacion 5    |          |          |Josefa   |
 | Visualizacion 6    |          |          |Josefa   |
