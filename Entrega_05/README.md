@@ -11,3 +11,70 @@ Luego de entregas fallidas, correcciones y sugerencias nuestra nueva hipótesis 
 Los atropellos en las vías férreas, desde Estación Central hasta la Región del Maule, no responden a una sola causa, sino a la interacción entre conductas individuales de riesgo y condiciones estructurales del sistema ferroviario. Si bien la imprudencia de peatones es un factor recurrente, esta se ve favorecida por la vulnerabilidad técnica de la señalización, la irregularidad del mantenimiento y la degradación de cruces y tramos, lo que aumenta la probabilidad de incidentes.
 
 Esta última la logramos demostrar y se ajusta a nuestro reportaje. Esto no fue fácil, pues tuvimos que enfocarnos geográficamente y considerar el factor de la imprudencia de los peatones como relevante. De esta manera, logramos resolver el principal conflicto surgido en las primeras entregas, que era que nuestros datos conversaran y fuera posible narrar un reportaje.
+
+
+Elemento
+Paloma
+Andrés
+Josefa
+Visualización 1
+Paloma
+
+
+
+
+Visualización 2
+
+
+Andrés 
+
+
+Visualización 3
+
+
+Andrés
+
+
+Visualización 4
+
+
+
+
+Josefa
+Visualización 5
+
+
+
+
+Josefa
+Visualización 6
+
+
+
+
+Josefa
+Visualización 7
+Paloma
+
+
+
+
+Visualización 8
+Paloma
+
+
+
+
+Visualización 9
+Paloma
+
+
+
+
+Diseño web
+Paloma
+
+
+
+
+
