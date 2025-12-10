@@ -1,10 +1,6 @@
 # Análisis de las visualizaciones
 
-Nuestro trabajo consiste en un reportaje gráfico alojado en una página web, cuya hipótesis plantea que, aunque la imprudencia de los peatones en las vías férreas es señalada como una de las principales causas de accidentes, también existen fallas estructurales y técnicas que contribuyen de manera significativa a que estos siniestros ocurran. A partir de esa premisa, analizamos nuestras visualizaciones, explicando qué dimensión de la problemática aborda cada una y qué mensaje buscamos comunicar con ellas dentro del relato general.
-
-# Análisis de visualizaciones – Entrega 06
-
-Este documento analiza el rol de cada visualización dentro de la historia web **“Punto Ciego: las fallas estructurales detrás de los atropellos ferroviarios”**, conectando dimensiones de datos, mensajes clave y decisiones de diseño.
+Nuestro trabajo consiste en un reportaje gráfico alojado en una página web, cuya hipótesis plantea que, aunque la imprudencia de los peatones en las vías férreas es señalada como una de las principales causas de accidentes, también existen fallas estructurales y técnicas que contribuyen de manera significativa a que estos siniestros ocurran. A partir de esa premisa, analizamos nuestras visualizaciones, explicando qué dimensión de la problemática aborda cada una y qué mensaje buscamos comunicar con ellas dentro del relato general
 
 ---
 
