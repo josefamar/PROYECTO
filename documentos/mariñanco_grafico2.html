@@ -1,0 +1,430 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <script src="https://cdn.jsdelivr.net/npm/vega@6.2.0"></script>
+  <script src="https://cdn.jsdelivr.net/npm/vega-lite@6.4.1"></script>
+  <script src="https://cdn.jsdelivr.net/npm/vega-embed@7.1.0"></script>
+</head>
+<body>
+  <div id="vis"/>
+  <script>
+    const spec = {
+  "config": {"view": {"continuousWidth": 300, "continuousHeight": 300}},
+  "data": {"name": "data-68f84617454c451a7941517883aaec94"},
+  "mark": {"type": "bar"},
+  "encoding": {
+    "color": {
+      "field": "Cruce",
+      "scale": {
+        "domain": ["Auto", "Personas", "Autos y Personas"],
+        "range": ["#5A75FA", "#FA945D", "#77C75D"]
+      },
+      "title": "Tipos de cruces",
+      "type": "nominal"
+    },
+    "tooltip": [
+      {"field": "Total", "type": "quantitative"},
+      {"field": "Región", "type": "nominal"},
+      {"field": "Índice de Ruralidad por Comuna", "type": "nominal"},
+      {"field": "Densidad Poblacional por KM Cuadrado", "type": "quantitative"}
+    ],
+    "x": {"field": "Total", "type": "quantitative"},
+    "y": {"field": "Comuna", "type": "ordinal"}
+  },
+  "height": 400,
+  "title": "Tipos de cruces irregulares",
+  "width": 300,
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.20.1.json",
+  "datasets": {
+    "data-68f84617454c451a7941517883aaec94": [
+      {
+        "Comuna": "San Bernardo",
+        "Cruce": "Auto",
+        "Total": 0,
+        "Región": "Metropolitana",
+        "Índice de Ruralidad por Comuna": "Mixta (1,354% de Población Rural)",
+        "Densidad Poblacional por KM Cuadrado": 1976.5
+      },
+      {
+        "Comuna": "San Bernardo",
+        "Cruce": "Personas",
+        "Total": 1,
+        "Región": "Metropolitana",
+        "Índice de Ruralidad por Comuna": "Mixta (1,354% de Población Rural)",
+        "Densidad Poblacional por KM Cuadrado": 1976.5
+      },
+      {
+        "Comuna": "San Bernardo",
+        "Cruce": "Autos y Personas",
+        "Total": 1,
+        "Región": "Metropolitana",
+        "Índice de Ruralidad por Comuna": "Mixta (1,354% de Población Rural)",
+        "Densidad Poblacional por KM Cuadrado": 1976.5
+      },
+      {
+        "Comuna": "Buin",
+        "Cruce": "Auto",
+        "Total": 2,
+        "Región": "Metropolitana",
+        "Índice de Ruralidad por Comuna": "Mixta (13,7% de Población Rural)",
+        "Densidad Poblacional por KM Cuadrado": 546.5
+      },
+      {
+        "Comuna": "Buin",
+        "Cruce": "Personas",
+        "Total": 1,
+        "Región": "Metropolitana",
+        "Índice de Ruralidad por Comuna": "Mixta (13,7% de Población Rural)",
+        "Densidad Poblacional por KM Cuadrado": 546.5
+      },
+      {
+        "Comuna": "Buin",
+        "Cruce": "Autos y Personas",
+        "Total": 0,
+        "Región": "Metropolitana",
+        "Índice de Ruralidad por Comuna": "Mixta (13,7% de Población Rural)",
+        "Densidad Poblacional por KM Cuadrado": 546.5
+      },
+      {
+        "Comuna": "Mostazal",
+        "Cruce": "Auto",
+        "Total": 1,
+        "Región": "O´Higgins",
+        "Índice de Ruralidad por Comuna": "Mixta (17,3% de Población Rural)",
+        "Densidad Poblacional por KM Cuadrado": 64.6
+      },
+      {
+        "Comuna": "Mostazal",
+        "Cruce": "Personas",
+        "Total": 0,
+        "Región": "O´Higgins",
+        "Índice de Ruralidad por Comuna": "Mixta (17,3% de Población Rural)",
+        "Densidad Poblacional por KM Cuadrado": 64.6
+      },
+      {
+        "Comuna": "Mostazal",
+        "Cruce": "Autos y Personas",
+        "Total": 0,
+        "Región": "O´Higgins",
+        "Índice de Ruralidad por Comuna": "Mixta (17,3% de Población Rural)",
+        "Densidad Poblacional por KM Cuadrado": 64.6
+      },
+      {
+        "Comuna": "Olivar",
+        "Cruce": "Auto",
+        "Total": 1,
+        "Región": "O´Higgins",
+        "Índice de Ruralidad por Comuna": "Mixta (30,6% de Población Rural)",
+        "Densidad Poblacional por KM Cuadrado": 308.9
+      },
+      {
+        "Comuna": "Olivar",
+        "Cruce": "Personas",
+        "Total": 0,
+        "Región": "O´Higgins",
+        "Índice de Ruralidad por Comuna": "Mixta (30,6% de Población Rural)",
+        "Densidad Poblacional por KM Cuadrado": 308.9
+      },
+      {
+        "Comuna": "Olivar",
+        "Cruce": "Autos y Personas",
+        "Total": 0,
+        "Región": "O´Higgins",
+        "Índice de Ruralidad por Comuna": "Mixta (30,6% de Población Rural)",
+        "Densidad Poblacional por KM Cuadrado": 308.9
+      },
+      {
+        "Comuna": "Requínoa",
+        "Cruce": "Auto",
+        "Total": 1,
+        "Región": "O´Higgins",
+        "Índice de Ruralidad por Comuna": "Mixta (40,1% de Población Rural)",
+        "Densidad Poblacional por KM Cuadrado": 43.8
+      },
+      {
+        "Comuna": "Requínoa",
+        "Cruce": "Personas",
+        "Total": 0,
+        "Región": "O´Higgins",
+        "Índice de Ruralidad por Comuna": "Mixta (40,1% de Población Rural)",
+        "Densidad Poblacional por KM Cuadrado": 43.8
+      },
+      {
+        "Comuna": "Requínoa",
+        "Cruce": "Autos y Personas",
+        "Total": 0,
+        "Región": "O´Higgins",
+        "Índice de Ruralidad por Comuna": "Mixta (40,1% de Población Rural)",
+        "Densidad Poblacional por KM Cuadrado": 43.8
+      },
+      {
+        "Comuna": "San Fernando",
+        "Cruce": "Auto",
+        "Total": 1,
+        "Región": "O´Higgins",
+        "Índice de Ruralidad por Comuna": "Mixta (13% de Población Rural)",
+        "Densidad Poblacional por KM Cuadrado": 30.9
+      },
+      {
+        "Comuna": "San Fernando",
+        "Cruce": "Personas",
+        "Total": 0,
+        "Región": "O´Higgins",
+        "Índice de Ruralidad por Comuna": "Mixta (13% de Población Rural)",
+        "Densidad Poblacional por KM Cuadrado": 30.9
+      },
+      {
+        "Comuna": "San Fernando",
+        "Cruce": "Autos y Personas",
+        "Total": 1,
+        "Región": "O´Higgins",
+        "Índice de Ruralidad por Comuna": "Mixta (13% de Población Rural)",
+        "Densidad Poblacional por KM Cuadrado": 30.9
+      },
+      {
+        "Comuna": "Chimbarongo",
+        "Cruce": "Auto",
+        "Total": 3,
+        "Región": "O´Higgins",
+        "Índice de Ruralidad por Comuna": "Mixta (40,4% de Población Rural)",
+        "Densidad Poblacional por KM Cuadrado": 74.8
+      },
+      {
+        "Comuna": "Chimbarongo",
+        "Cruce": "Personas",
+        "Total": 2,
+        "Región": "O´Higgins",
+        "Índice de Ruralidad por Comuna": "Mixta (40,4% de Población Rural)",
+        "Densidad Poblacional por KM Cuadrado": 74.8
+      },
+      {
+        "Comuna": "Chimbarongo",
+        "Cruce": "Autos y Personas",
+        "Total": 1,
+        "Región": "O´Higgins",
+        "Índice de Ruralidad por Comuna": "Mixta (40,4% de Población Rural)",
+        "Densidad Poblacional por KM Cuadrado": 74.8
+      },
+      {
+        "Comuna": "Teno",
+        "Cruce": "Auto",
+        "Total": 3,
+        "Región": "Maule",
+        "Índice de Ruralidad por Comuna": "Mixta (65% de Población Rural)",
+        "Densidad Poblacional por KM Cuadrado": 48.6
+      },
+      {
+        "Comuna": "Teno",
+        "Cruce": "Personas",
+        "Total": 1,
+        "Región": "Maule",
+        "Índice de Ruralidad por Comuna": "Mixta (65% de Población Rural)",
+        "Densidad Poblacional por KM Cuadrado": 48.6
+      },
+      {
+        "Comuna": "Teno",
+        "Cruce": "Autos y Personas",
+        "Total": 0,
+        "Región": "Maule",
+        "Índice de Ruralidad por Comuna": "Mixta (65% de Población Rural)",
+        "Densidad Poblacional por KM Cuadrado": 48.6
+      },
+      {
+        "Comuna": "Curicó",
+        "Cruce": "Auto",
+        "Total": 1,
+        "Región": "Maule",
+        "Índice de Ruralidad por Comuna": "Mixta (10,3% de Población Rural)",
+        "Densidad Poblacional por KM Cuadrado": 120.4
+      },
+      {
+        "Comuna": "Curicó",
+        "Cruce": "Personas",
+        "Total": 0,
+        "Región": "Maule",
+        "Índice de Ruralidad por Comuna": "Mixta (10,3% de Población Rural)",
+        "Densidad Poblacional por KM Cuadrado": 120.4
+      },
+      {
+        "Comuna": "Curicó",
+        "Cruce": "Autos y Personas",
+        "Total": 0,
+        "Región": "Maule",
+        "Índice de Ruralidad por Comuna": "Mixta (10,3% de Población Rural)",
+        "Densidad Poblacional por KM Cuadrado": 120.4
+      },
+      {
+        "Comuna": "Molina",
+        "Cruce": "Auto",
+        "Total": 1,
+        "Región": "Maule",
+        "Índice de Ruralidad por Comuna": "Mixta (16,6% de Población Rural)",
+        "Densidad Poblacional por KM Cuadrado": 31.5
+      },
+      {
+        "Comuna": "Molina",
+        "Cruce": "Personas",
+        "Total": 0,
+        "Región": "Maule",
+        "Índice de Ruralidad por Comuna": "Mixta (16,6% de Población Rural)",
+        "Densidad Poblacional por KM Cuadrado": 31.5
+      },
+      {
+        "Comuna": "Molina",
+        "Cruce": "Autos y Personas",
+        "Total": 0,
+        "Región": "Maule",
+        "Índice de Ruralidad por Comuna": "Mixta (16,6% de Población Rural)",
+        "Densidad Poblacional por KM Cuadrado": 31.5
+      },
+      {
+        "Comuna": "Río Claro",
+        "Cruce": "Auto",
+        "Total": 0,
+        "Región": "Maule",
+        "Índice de Ruralidad por Comuna": "Mixta (66,3% de Población Rural)",
+        "Densidad Poblacional por KM Cuadrado": 33.1
+      },
+      {
+        "Comuna": "Río Claro",
+        "Cruce": "Personas",
+        "Total": 1,
+        "Región": "Maule",
+        "Índice de Ruralidad por Comuna": "Mixta (66,3% de Población Rural)",
+        "Densidad Poblacional por KM Cuadrado": 33.1
+      },
+      {
+        "Comuna": "Río Claro",
+        "Cruce": "Autos y Personas",
+        "Total": 0,
+        "Región": "Maule",
+        "Índice de Ruralidad por Comuna": "Mixta (66,3% de Población Rural)",
+        "Densidad Poblacional por KM Cuadrado": 33.1
+      },
+      {
+        "Comuna": "Talca",
+        "Cruce": "Auto",
+        "Total": 2,
+        "Región": "Maule",
+        "Índice de Ruralidad por Comuna": "Mixta (4,7% de Población Rural)",
+        "Densidad Poblacional por KM Cuadrado": 1000.5
+      },
+      {
+        "Comuna": "Talca",
+        "Cruce": "Personas",
+        "Total": 0,
+        "Región": "Maule",
+        "Índice de Ruralidad por Comuna": "Mixta (4,7% de Población Rural)",
+        "Densidad Poblacional por KM Cuadrado": 1000.5
+      },
+      {
+        "Comuna": "Talca",
+        "Cruce": "Autos y Personas",
+        "Total": 0,
+        "Región": "Maule",
+        "Índice de Ruralidad por Comuna": "Mixta (4,7% de Población Rural)",
+        "Densidad Poblacional por KM Cuadrado": 1000.5
+      },
+      {
+        "Comuna": "Villa Alegre",
+        "Cruce": "Auto",
+        "Total": 4,
+        "Región": "Maule",
+        "Índice de Ruralidad por Comuna": "Mixta (36,1% de Población Rural)",
+        "Densidad Poblacional por KM Cuadrado": 94.3
+      },
+      {
+        "Comuna": "Villa Alegre",
+        "Cruce": "Personas",
+        "Total": 0,
+        "Región": "Maule",
+        "Índice de Ruralidad por Comuna": "Mixta (36,1% de Población Rural)",
+        "Densidad Poblacional por KM Cuadrado": 94.3
+      },
+      {
+        "Comuna": "Villa Alegre",
+        "Cruce": "Autos y Personas",
+        "Total": 0,
+        "Región": "Maule",
+        "Índice de Ruralidad por Comuna": "Mixta (36,1% de Población Rural)",
+        "Densidad Poblacional por KM Cuadrado": 94.3
+      },
+      {
+        "Comuna": "Linares",
+        "Cruce": "Auto",
+        "Total": 1,
+        "Región": "Maule",
+        "Índice de Ruralidad por Comuna": "Mixta (17,1% de Población Rural)",
+        "Densidad Poblacional por KM Cuadrado": 65.9
+      },
+      {
+        "Comuna": "Linares",
+        "Cruce": "Personas",
+        "Total": 0,
+        "Región": "Maule",
+        "Índice de Ruralidad por Comuna": "Mixta (17,1% de Población Rural)",
+        "Densidad Poblacional por KM Cuadrado": 65.9
+      },
+      {
+        "Comuna": "Linares",
+        "Cruce": "Autos y Personas",
+        "Total": 0,
+        "Región": "Maule",
+        "Índice de Ruralidad por Comuna": "Mixta (17,1% de Población Rural)",
+        "Densidad Poblacional por KM Cuadrado": 65.9
+      },
+      {
+        "Comuna": "Longaví",
+        "Cruce": "Auto",
+        "Total": 5,
+        "Región": "Maule",
+        "Índice de Ruralidad por Comuna": "Mixta (67,1% de Población Rural)",
+        "Densidad Poblacional por KM Cuadrado": 22.9
+      },
+      {
+        "Comuna": "Longaví",
+        "Cruce": "Personas",
+        "Total": 1,
+        "Región": "Maule",
+        "Índice de Ruralidad por Comuna": "Mixta (67,1% de Población Rural)",
+        "Densidad Poblacional por KM Cuadrado": 22.9
+      },
+      {
+        "Comuna": "Longaví",
+        "Cruce": "Autos y Personas",
+        "Total": 0,
+        "Región": "Maule",
+        "Índice de Ruralidad por Comuna": "Mixta (67,1% de Población Rural)",
+        "Densidad Poblacional por KM Cuadrado": 22.9
+      },
+      {
+        "Comuna": "Parral",
+        "Cruce": "Auto",
+        "Total": 4,
+        "Región": "Maule",
+        "Índice de Ruralidad por Comuna": "Mixta (24,8% de Población Rural)",
+        "Densidad Poblacional por KM Cuadrado": 27.6
+      },
+      {
+        "Comuna": "Parral",
+        "Cruce": "Personas",
+        "Total": 1,
+        "Región": "Maule",
+        "Índice de Ruralidad por Comuna": "Mixta (24,8% de Población Rural)",
+        "Densidad Poblacional por KM Cuadrado": 27.6
+      },
+      {
+        "Comuna": "Parral",
+        "Cruce": "Autos y Personas",
+        "Total": 0,
+        "Región": "Maule",
+        "Índice de Ruralidad por Comuna": "Mixta (24,8% de Población Rural)",
+        "Densidad Poblacional por KM Cuadrado": 27.6
+      }
+    ]
+  }
+};
+    vegaEmbed("#vis", spec, {mode: "vega-lite"}).then(console.log).catch(console.warn);
+  </script>
+</body>
+</html>
