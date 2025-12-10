@@ -12,14 +12,15 @@ Los atropellos en las vías férreas, desde Estación Central hasta la Región d
 
 Esta última la logramos demostrar y se ajusta a nuestro reportaje. Esto no fue fácil, pues tuvimos que enfocarnos geográficamente y considerar el factor de la imprudencia de los peatones como relevante. De esta manera, logramos resolver el principal conflicto surgido en las primeras entregas, que era que nuestros datos conversaran y fuera posible narrar un reportaje.
 
-Columna	         Paloma	Andrés	Josefa
-Visualizacion 1	 Paloma		
-Visualizacion 2		      Andrés	
-Visualizacion 3		      Andrés	
-Visualizacion 4		             	Josefa
-Visualizacion 5			            Josefa
-Visualizacion 6			            Josefa
-Visualizacion 7	Paloma		
-Visualizacion 8	Paloma		
-Visualizacion 9	Paloma		
-Diseño Web	Paloma		
+|   Columna          | Paloma   | Andrés   |Josefa   |
+|--------------------|----------|----------|---------|
+| Visualizacion 1    | Paloma   |          |         |
+| Visualizacion 2    |          |Andrés    |         |
+| Visualizacion 3    |          |Adnrés    |         |
+| Visualizacion 4    |          |          |Josefa   |
+| Visualizacion 5    |          |          |Josefa   |
+| Visualizacion 6    |          |          |Josefa   |
+| Visualizacion 7    | Paloma   |          |         |
+| Visualizacion 8    | Paloma   |          |         |
+| Visualizacion 9    | Paloma   |          |         |
+| Diseño Web         | Paloma   |          |         |
